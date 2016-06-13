@@ -1,0 +1,32 @@
+package example1;
+
+
+
+public class ClassesAndObjects {
+
+	
+	
+	
+	public static void main(String[] args) {
+		 // Create a Person object using the Person class
+		Person p1 = new Person();  
+		p1.name = "Joe Bloggs";
+		p1.age = 37;
+         
+        // Create a second Person object
+        Person p2 = new Person();
+        p2.name = "Sarah Smith";
+        p2.age = 20;
+        
+        
+        p1.Person("Mark", 10);
+         
+        System.out.println(p1.name);
+        System.out.println(p1.age);
+        System.out.println(p2.name);
+        System.out.println(p2.age);
+         
+    
+	}
+
+}

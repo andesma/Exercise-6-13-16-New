@@ -1,0 +1,4 @@
+127.0.0.1 - - [13/Jun/2016:11:28:45 +0800] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [13/Jun/2016:11:28:45 +0800] "GET /my-app-web6/ HTTP/1.1" 404 975
+0:0:0:0:0:0:0:1 - - [13/Jun/2016:16:03:28 +0800] "GET /my-app-web6/WEB-INF/classes/com/mnl/app2/my_app_web6/App.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [13/Jun/2016:16:03:55 +0800] "GET /my-app-web6/WEB-INF/classes/com/mnl/app2/my_app_web6/App.java HTTP/1.1" 404 949
